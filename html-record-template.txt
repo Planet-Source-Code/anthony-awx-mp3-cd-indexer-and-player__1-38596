@@ -1,0 +1,62 @@
+  <div align="center">
+    <center>
+    <table border="1" cellpadding="2" cellspacing="0" width="90%" bordercolor="#A6A8D9" height="226">
+      <tr>
+        <td width="25%" height="22" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Volume</b></font></td>
+        <td width="75%" colspan="5" height="22" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Filename</b></font></td>
+      </tr>
+      <tr>
+        <td width="25%" height="22"><font face="Tahoma" size="1">%volume%</font></td>
+        <td width="75%" colspan="5" height="22"><font face="Tahoma" size="1">%filename%</font></td>
+      </tr>
+      <tr>
+        <td width="25%" height="22" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Album</b></font></td>
+        <td width="25%" height="22" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Artist</b></font></td>
+        <td width="25%" colspan="2" height="22" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Title</b></font></td>
+        <td width="25%" colspan="2" height="22" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Genre</b></font></td>
+      </tr>
+      <tr>
+        <td width="25%" height="22"><font face="Tahoma" size="1">%album%</font></td>
+        <td width="25%" height="22"><font face="Tahoma" size="1">%artist%</font></td>
+        <td width="25%" colspan="2" height="22"><font face="Tahoma" size="1">%title%</font></td>
+        <td width="25%" colspan="2" height="22"><font face="Tahoma" size="1">%genre%</font></td>
+      </tr>
+      <tr>
+        <td width="25%" height="23" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Year</b></font></td>
+        <td width="25%" height="23" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Size</b></font></td>
+        <td width="25%" colspan="2" height="23" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Length</b></font></td>
+        <td width="25%" colspan="2" height="23" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Layer</b></font></td>
+      </tr>
+      <tr>
+        <td width="25%" height="23"><font face="Tahoma" size="1">%year%</font></td>
+        <td width="25%" height="23"><font face="Tahoma" size="1">%size%</font></td>
+        <td width="25%" colspan="2" height="23"><font face="Tahoma" size="1">%length%</font></td>
+        <td width="25%" colspan="2" height="23"><font face="Tahoma" size="1">%layer%</font></td>
+      </tr>
+      <tr>
+        <td width="25%" height="23" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Bit
+          Rate</b></font></td>
+        <td width="25%" height="23" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Frequency</b></font></td>
+        <td width="12%" height="23" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>CRC</b></font></td>
+        <td width="13%" height="23" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Copyright</b></font></td>
+        <td width="12%" height="23" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Emphasis</b></font></td>
+        <td width="13%" height="23" bgcolor="#EAEAEA"><font face="Tahoma" size="1"><b>Original</b></font></td>
+      </tr>
+      <tr>
+        <td width="25%" height="23"><font face="Tahoma" size="1">%bitrate%</font></td>
+        <td width="25%" height="23"><font face="Tahoma" size="1">%frequency%</font></td>
+        <td width="12%" height="23"><font face="Tahoma" size="1">%crc%</font></td>
+        <td width="13%" height="23"><font face="Tahoma" size="1">%copyright%</font></td>
+        <td width="12%" height="23"><font face="Tahoma" size="1">%emphasis%</font></td>
+        <td width="13%" height="23"><font face="Tahoma" size="1">%original%</font></td>
+      </tr>
+      <tr>
+        <td width="100%" height="23" bgcolor="#EAEAEA" colspan="6"><font face="Tahoma" size="1"><b>Comments</b></font></td>
+      </tr>
+      <tr>
+        <td width="100%" colspan="6" height="23"><font face="Tahoma" size="1">%comments%</font></td>
+      </tr>
+    </table>
+    </center>
+  </div>
+<p>

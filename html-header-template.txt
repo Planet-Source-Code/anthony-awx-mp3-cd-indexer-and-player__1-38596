@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>%search%</title>
+</head>
+
+<body>
+<font face='Arial Narrow' size='5'><b>Disk Pro</b></font>
+<hr noshade size='1' color='#000080'>
+<blockquote>
+<p style='background-color: #A6A8D9; color: #000080; border: 2 solid #A6A8D9'>
+<b><font face='Arial Narrow' size='4'>%search%</font></b></p>
+</blockquote>
+
